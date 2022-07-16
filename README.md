@@ -17,3 +17,5 @@ In this project we are going to show you how to make Music Rhythm Operated Danci
 Assemble the circuit on breadboard as per the circuit diagram.
 
 ![image](https://user-images.githubusercontent.com/58667012/179341106-15743aec-3c93-479e-bd14-d53b6483ce63.png)
+
+
